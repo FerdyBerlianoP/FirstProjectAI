@@ -5,7 +5,5 @@ This project leverages the power of the Hugging Face transformers library and La
 
 The system reads the context from a provided text and allows the user to ask natural language questions. The model answers based on the information present in the context.
 
-##Requirements:
-transformers
-langchain
-torch
+## Requirements:
+transformers, langchain, and torch
