@@ -6,3 +6,8 @@ The system reads the context from a provided text and allows the user to ask nat
 
 ## Requirements
 transformers, langchain, and torch
+
+## Example to use
+Enter your question : Where is location of Indonesia?
+
+Answer: SOUTH EAST ASIAN
